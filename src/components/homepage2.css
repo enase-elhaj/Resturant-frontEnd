@@ -1,0 +1,4935 @@
+ .icon-13 {
+    width: 13.5px;
+    height: 13.5px;
+  }
+   .icon-outlinephone-1 {
+    margin: 5.3px 10.3px 5.3px 0;
+    display: flex;
+    width: 13.5px;
+    height: 13.5px;
+    box-sizing: border-box;
+  }
+   .container-28 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-02, #F9F9F7);
+  }
+   .call-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+   .icon-14 {
+    width: 13.5px;
+    height: 10.5px;
+  }
+   .icon-outlinemail-1 {
+    margin: 6.8px 10.3px 6.8px 0;
+    display: flex;
+    width: 13.5px;
+    height: 10.5px;
+    box-sizing: border-box;
+  }
+   .yummybistrobliss {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-02, #F9F9F7);
+  }
+   .mail-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+   .info-1 {
+    margin: 2px 0 1.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 341.5px;
+    /* width: 320px; */
+    height: fit-content;
+    box-sizing: border-box;
+    padding-left: 30px;
+  }
+   .vector-20 {
+    width: 10.8px;
+    height: 8.8px;
+  }
+   .logo-twitter-21 {
+    display: flex;
+    width: 10.8px;
+    height: 8.8px;
+    box-sizing: border-box;
+  }
+   .container-24 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 9.6px 7.6px 8.8px 8.8px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+    
+  }
+   .vector-21 {
+    width: 6.1px;
+    height: 11.8px;
+  }
+   .logo-fb-simple-21 {
+    display: flex;
+    width: 6.1px;
+    height: 11.8px;
+    box-sizing: border-box;
+  }
+   .container-25 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 7.9px 10.5px 7.5px 10.5px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+   .group-3 {
+    width: 13.1px;
+    height: 13.1px;
+  }
+   .logo-instagram-11 {
+    display: flex;
+    width: 13.1px;
+    height: 13.1px;
+    box-sizing: border-box;
+  }
+   .container-26 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 7px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+   .vector-25 {
+    width: 12.6px;
+    height: 12.3px;
+  }
+   .logo-github-11 {
+    display: flex;
+    width: 12.6px;
+    height: 12.3px;
+    box-sizing: border-box;
+  }
+   .container-27 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    display: flex;
+    padding: 7px 6.7px 7.9px 7.9px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+   .social-1 {
+    display: flex;
+    flex-direction: row;
+    width: 120.7px;
+    height: fit-content;
+    box-sizing: border-box;
+    /* padding-right: 80px; */
+  }
+   .top-bar {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background: #474747;
+    margin-bottom: 29px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* padding: 9px 154.3px 8.8px 152.3px; */
+    padding: 9px 230px 8.8px 160px;
+    /* width: 1600px; */
+    width: 100%;
+    box-sizing: border-box;
+  }
+   .japanese-food-1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 56px;
+    height: 55px;
+  
+  
+  
+  }
+   .cuisine-1 {
+    overflow-wrap: break-word;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 42.7px;
+    letter-spacing: -0.4px;
+    line-height: 0.687;
+    color: #474747;
+  }
+   .original-logo-1 {
+    position: relative;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .logo-1 {
+    position: relative;
+    display: flex;
+  
+    /* I added this */
+    justify-content:right;
+    /* align-items: center; */
+  
+    padding: 12px 0 14px 0;
+    width: 278.3px;
+    box-sizing: border-box;
+  }
+   .home-1 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .menu-3 {
+    border-radius: 34px;
+    background: #DBDFD0;
+    margin-right: 24px;
+    display: flex;
+    padding: 4px 16.6px 4px 16px;
+    box-sizing: border-box;
+  }
+   .about-2 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .menu-4 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .container-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+   .container-100 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 636 px;
+    height: 732 px;
+  }
+   .menu-6 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .menu-5 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .pages-1 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .menu-7 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .contact-1 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .menu-8 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .menu-2 {
+    border-radius: 34px;
+    margin: 11.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* width: 416.6px; */
+    width: 550px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+   .get-started-now-4 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-071, #182226);
+    text-align: center;
+  }
+   .button-5 {
+    border-radius: 118px;
+    border: 1.5px solid var(--neutral-07, #2C2F24);
+    display: flex;
+    padding: 10.5px 0.8px 10.5px 0;
+    width: 147px;
+    height: fit-content;
+    box-sizing: border-box;
+  
+  /* I added the following 3 lines */
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+  }
+   .button-4 {
+    border-radius: 118px;
+    margin: 3.5px 0;
+    display: flex;
+    width: 147px;
+    height: fit-content;
+    box-sizing: border-box;
+  
+  }
+  /* I added this button-10 :) */
+   .button-10{
+  
+  width: 349px;
+  text-align: center;
+  display:table-cell;
+  vertical-align:middle;
+  
+  
+  }
+  
+  
+  
+   .header-1 {
+    margin: 0 155.5px 0 151.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    /* width: 1300px; */
+    width: 75%;
+    box-sizing: border-box;
+  }
+   .header {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 1600px; */
+    width: 100%;
+    box-sizing: border-box;
+  }
+   .mask-group-12 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+   .best-food-for-your-taste {
+    margin-bottom: 32px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-1-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-1-font-weight, 400);
+    font-size: var(--headline-h-1-font-size, 100px);
+    line-height: var(--headline-h-1-line-height, 0.96);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .discover-delectable-cuisine-and-unforgettable-moments-in-our-welcoming-culinary-haven {
+    margin: 0 56.4px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-regular-font-weight, 400);
+    font-size: var(--body-20-px-regular-font-size, 20px);
+    line-height: var(--body-20-px-regular-line-height, 1.6);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .text-22 {
+    position: relative;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .get-started-now-2 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-013, #FFFFFF);
+  }
+   .button-2 {
+    border-radius: 118px;
+    background: #AD343E;
+    margin-right: 16px;
+    display: flex;
+    padding: 20px 0.8px 20px 0;
+    width: 163px;
+    box-sizing: border-box;
+  
+    /* I added */
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+  }
+   .get-started-now-3 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-071, #182226);
+  }
+   .button-3 {
+    border-radius: 118px;
+    border: 1.5px solid var(--neutral-07, #2C2F24);
+    display: flex;
+    padding: 18.5px 0.3px 18.5px 0;
+    width: 170px;
+    box-sizing: border-box;
+  
+    /* I added */
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+  }
+  
+  
+   .buttons {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 349px;
+    box-sizing: border-box;
+  
+    
+  }
+   .content-1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 207px 0 203px 0;
+    width: 1600px;
+    box-sizing: border-box;
+  
+  
+    background-image: url(images/image_110.png);
+
+    /* background-image: url("{{ asset('assets/images/image_110.png') }}"); */
+
+    /* url("{{ asset('assets/img/background.png') }}") */
+    /* background-image: url("../assets/img/background.png") */
+
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+  }
+ .hero {
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 1600px; */
+    width: 100%;
+    box-sizing: border-box;
+  }
+   .browse-our-menu {
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .title-5 {
+    margin-bottom: 64px;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .group {
+  
+    width: 42px;
+    height: 44px;
+  }
+   .tea-1 {
+    display: flex;
+    width: 42px;
+    height: 44px;
+    box-sizing: border-box;
+  }
+   .icon-3 {
+    /* opacity: 0.07; */
+    /* I added */
+    opacity: 1;
+  
+    border-radius: 50px;
+  
+    /* I added */
+    background:whitesmoke;
+    /* background: #4D592B; */
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    /* I added */
+    padding: 28px;
+    /* padding: 28px 0; */
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+   .breakfast {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-and-pride-for-our-life {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-18 {
+    margin-bottom: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .button-6 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: #AD343E;
+  }
+   .button-base {
+    border-radius: 12px;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .container-16 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .vector-7 {
+    width: 52.6px;
+    height: 50px;
+  }
+   .icon-4 {
+    opacity: 1 ;
+    /* opacity: 0.07; */
+    border-radius: 50px;
+    background:whitesmoke;
+    /* background: #4D592B; */
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    padding: 25px;
+    /* padding: 25px 0 25px 0.6px; */
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+   .main-dishes {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-and-pride-for-our-life-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-19 {
+    margin-bottom: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .button-7 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: #AD343E;
+  }
+   .button-base-1 {
+    border-radius: 12px;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .container-17 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .vector-8 {
+    width: 39.4px;
+    height: 50px;
+  }
+   .icon-5 {
+    opacity: 1;
+    /* opacity: 0.07; */
+    border-radius: 50px;
+    background: whitesmoke;
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    padding: 30px;
+    /* padding: 25px 0.6px 25px 0; */
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+   .drinks {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-and-pride-for-our-life-2 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-20 {
+    margin-bottom: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .button-8 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: #AD343E;
+  }
+   .button-base-2 {
+    border-radius: 12px;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .container-18 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .group-1 {
+    width: 50.2px;
+    height: 50px;
+  }
+   .icon-6 {
+    opacity: 1;
+    /* opacity: 0.07; */
+    border-radius: 50px;
+    background: whitesmoke;
+    /* background: #4D592B; */
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    padding: 25px;
+    /* padding: 25px 0 25px 0.2px; */
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+   .desserts {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-and-pride-for-our-life-3 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-21 {
+    margin-bottom: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .button-9 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: #AD343E;
+  }
+   .button-base-3 {
+    border-radius: 12px;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .container-19 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .card-3 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 1296px;
+    box-sizing: border-box;
+  
+  
+  }
+   .menu {
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 92px 152px 120px 152px;
+    width: 1600px;
+    box-sizing: border-box;
+  }
+   .image-111 {
+    /* background: url('../assets/images/image_111.jpeg') 50% / cover no-repeat; */
+    background: url('images/image_111.jpeg') 50% / cover no-repeat;
+    position: absolute;
+  
+    top: -200px;
+    /* top: -340px; */
+    /* right: -147px; */
+    /* width: 758px; */
+    /* height: 1137px; */
+  
+    /* margin-left: 100px; */
+  
+    width: 599px;
+    height: 566px; 
+  
+  
+    margin: 199.5px 0 79.5px 0;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* box-sizing: border-box; */
+  }
+   .image-2 {
+    border-radius: 12px;
+    background: var(--blue-100, #DBEAFE);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 599px;
+    height: 566px;
+  }
+   .come-and-visit-us {
+    margin-bottom: 45px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: var(--neutral-01, #FFFFFF);
+    
+  }
+   .icon-10 {
+    width: 18px;
+    height: 18px;
+  }
+   .icon-outlinephone {
+    margin: 3px 23px 3px 0;
+    display: flex;
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
+  }
+   .container-15 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-02, #F9F9F7);
+  }
+   .call {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .icon-11 {
+    width: 18px;
+    height: 14px;
+  }
+   .icon-outlinemail {
+    margin: 5px 23px 5px 0;
+    display: flex;
+    width: 18px;
+    height: 14px;
+    box-sizing: border-box;
+  }
+   .happytummyrestaurant-com {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-02, #F9F9F7);
+  }
+   .mail {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .icon-12 {
+    width: 16px;
+    height: 19.3px;
+  }
+   .icon-outlinelocation-marker {
+    margin: 3px 24px 25.7px 0;
+    display: flex;
+    width: 16px;
+    height: 19.3px;
+    box-sizing: border-box;
+  }
+   .wmarshall-lane-marshalltown-ia-50158-los-angeles {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-02, #F9F9F7);
+  }
+   .location {
+    margin-left: 1px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .info {
+    margin-left: 3px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .text-16 {
+    background: #474747;
+    display: flex;
+    flex-direction: column;
+    padding-right: 7.7px;
+    box-sizing: border-box;
+  
+  }
+   .card-2 {
+    border-radius: 12px;
+    background: #474747;
+    position: relative;
+    display: flex;
+  
+    /* I added this */
+    padding: 50px;
+    /* padding: 50px 0; */
+    width: 411px;
+    height: fit-content;
+    box-sizing: border-box;
+  /* Iadded this */
+    margin-left: 250px;
+    
+  }
+   .img-2 {
+    position: relative;
+    margin: 120px 90px 0 0;
+    display: flex;
+    padding-top: 295px;
+    width: 649px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+   .we-provide-healthy-food-for-your-family {
+    margin: 0 42.7px 23px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .our-story-began-with-avision-to-create-aunique-dining-experience-that-merges-fine-dining-exceptional-service-and-avibrant-ambiance-rooted-in-citys-rich-culinary-culture-we-aim-to-honor-our-local-roots-while-infusing-aglobal-palate {
+    margin-bottom: 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-medium-font-weight, 500);
+    font-size: var(--body-18-px-medium-font-size, 18px);
+    line-height: var(--body-18-px-medium-line-height, 1.556);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .at-place-we-believe-that-dining-is-not-just-about-food-but-also-about-the-overall-experience-our-staff-renowned-for-their-warmth-and-dedication-strives-to-make-every-visit-an-unforgettable-event {
+    margin-right: 10.6px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .title-4 {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: fit-content; */
+  /* I added this */
+    width:557px ;
+    height: 353px;
+  
+    box-sizing: border-box;
+  }
+   .get-started-now-1 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-071, #182226);
+    
+  }
+   .button-1 {
+    border-radius: 118px;
+    border: 1.5px solid var(--neutral-07, #2C2F24);
+    display: flex;
+    align-self: flex-start;
+    padding: 18.5px 0.3px 18.5px 0;
+    width: 179px;
+    box-sizing: border-box;
+  /* I added this */
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+  }
+   .text-17 {
+    margin: 199.5px 0 79.5px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  
+  
+  }
+   .about {
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+  
+    justify-content: center;
+    align-items: center;
+    
+    /* padding: 120px 0 120px 152px; */
+    /* I added this */
+    padding: 0px 120px 120px 0px;
+    width: 1600px;
+    box-sizing: border-box;
+  /* I added this */
+    height: 856px;
+  }
+   .we-also-offer-unique-services-for-your-events {
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .title-3 {
+    margin: 0 0.8px 63px 0.8px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  /* I added */
+    width: 650px;
+    height: 121px;
+  }
+   .kebab-set-table-1 {
+    border-radius: 12px;
+    /* background: url('../assets/images/kebab_set_table_1.jpeg') 50% / cover no-repeat; */
+    background: url('images/kebab_set_table_1.jpeg') 50% / cover no-repeat;
+    margin: 0 0 30px 0.8px;
+    width: 306px;
+    height: 320px;
+  }
+   .caterings {
+    margin-bottom: 15px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-for-life {
+    margin-left: 0.8px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-12 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-11 {
+    margin-right: 23.4px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+   .charming-female-blowing-candles-birthday-cake-after-making-her-wish-party-1 {
+    border-radius: 12px;
+    /* background: url('../assets/images/charming_female_blowing_candles_birthday_cake_after_making_her_wish_party_1.jpeg'); */
+    background: url('images/charming_female_blowing_candles_birthday_cake_after_making_her_wish_party_1.jpeg');
+    position: absolute;
+    /* right: -146px;
+    bottom: -92px; */
+    /* width: 460px; */
+    /* height: 419px; */
+  /* I added */
+    width: 306px;
+    height: 320px;
+    background-size:cover;
+    background-repeat: no-repeat;
+  
+  
+  }
+   .mask-group-9 {
+    border-radius: 12px;
+    position: relative;
+    margin: 0 0 30px 0.6px;
+    width: 306px;
+    height: 320px;
+  }
+   .birthdays {
+    margin-bottom: 15px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-for-life-1 {
+    margin-left: 0.6px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-13 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-12 {
+    margin-right: 23.3px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+   .happy-man-wife-sunny-day-2 {
+    mix-blend-mode: color-burn;
+    border-radius: 12px;
+    position: absolute;
+    left: -24px;
+    bottom: 0px;
+    width: 330px;
+    height: 320px;
+  }
+   .mask-group-10 {
+    border-radius: 12px;
+    /* background: url('../assets/images/happy_man_wife_sunny_day_1.jpeg'); */
+    background: url('images/happy_man_wife_sunny_day_1.jpeg');
+    position: relative;
+    margin: 0 0 30px 0.7px;
+    width: 306px;
+    height: 320px;
+  }
+   .weddings {
+    margin-bottom: 15px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-for-life-2 {
+    margin-left: 0.7px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-14 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-13 {
+    margin-right: 23.6px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+   .group-friends-eating-restaurant-1 {
+    border-radius: 12px;
+    /* background: url('../assets/images/group_friends_eating_restaurant_1.jpeg'); */
+    background: url('images/group_friends_eating_restaurant_1.jpeg');
+    position: absolute;
+    /* I took */
+    /* right: -110px; */
+    bottom: 0px;
+    /* I added */
+    width:306px;
+    /* width: 416px; */
+    height: 320px;
+  }
+   .mask-group-11 {
+    border-radius: 12px;
+    position: relative;
+    margin: 0 0 30px 0.4px;
+    width: 306px;
+    height: 320px;
+  }
+   .events {
+    margin-bottom: 15px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-for-life-3 {
+    margin-left: 0.4px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-15 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-14 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+   .card-1 {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .services {
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 120px 152px 120px 151.2px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .mid-shot-chef-holding-plate-with-pasta-making-ok-sign-1 {
+    border-radius: 12px;
+    /* background: url('../assets/images/mid_shot_chef_holding_plate_with_pasta_making_ok_sign_1.jpeg') 50% / cover no-repeat; */
+    background: url('images/mid_shot_chef_holding_plate_with_pasta_making_ok_sign_1.jpeg') 50% / cover no-repeat;
+    margin: 0 24px 27px 0;
+    width: 431px;
+    height: 600px;
+  }
+   .sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food-1 {
+    border-radius: 12px;
+    /* background: url('../assets/images/sour_curry_with_snakehead_fish_spicy_garden_hot_pot_thai_food_1.jpeg') 50% / cover no-repeat; */
+    background: url('images/sour_curry_with_snakehead_fish_spicy_garden_hot_pot_thai_food_1.jpeg') 50% / cover no-repeat;
+    margin-bottom: 24px;
+    width: 290px;
+    height: 333px;
+  }
+   .sadj-iron-pot-with-various-salads-1 {
+    border-radius: 12px;
+    /* background: url('../assets/images/sadj_iron_pot_with_various_salads_1.jpeg') 50% / cover no-repeat; */
+    background: url('images/sadj_iron_pot_with_various_salads_1.jpeg') 50% / cover no-repeat;
+    width: 290px;
+    height: 240px;
+  }
+   .container-2 {
+    margin-top: 0 px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 290px;
+    height: fit-content;
+    box-sizing: border-box;
+  
+    background: #AD343E;
+  }
+   .img-1 {
+    border-radius: 12px;
+    margin: 120px 90px 0 0;
+    display: flex;
+    flex-direction: row;
+    width: 745px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+   .fastest-food-delivery-in-city {
+    margin: 0 22.4px 19px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .you-made-it-so-simp {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .title-2 {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .icon-7 {
+    width: 11.3px;
+    height: 11.3px;
+  }
+   .icon-outlineclock {
+    background: #AD343E;
+    display: flex;
+    padding: 1.9px;
+    width: 15.1px;
+    height: 15.1px;
+    box-sizing: border-box;
+  }
+   .icon {
+    border-radius: 65px;
+    background: #AD343E;
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    padding: 7px 7.9px 7.9px 7px;
+    width: 30px;
+    height: 30px;
+    box-sizing: border-box;
+  }
+   .delivery-within-30-minutes {
+    margin: 2px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-medium-font-weight, 500);
+    font-size: var(--body-20-px-medium-font-size, 20px);
+    line-height: var(--body-20-px-medium-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .container-8 {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .icon-8 {
+    width: 8.8px;
+    height: 11.3px;
+  }
+   .icon-outlinereceipt-tax {
+    background: #AD343E;
+    display: flex;
+    padding: 1.9px 3.1px;
+    width: 15.1px;
+    height: 15.1px;
+    box-sizing: border-box;
+  }
+   .icon-1 {
+    border-radius: 65px;
+    background: #AD343E;
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    padding: 7px 7.9px 7.9px 7px;
+    width: 30px;
+    height: 30px;
+    box-sizing: border-box;
+  }
+   .best-offer-prices {
+    margin: 2px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-medium-font-weight, 500);
+    font-size: var(--body-20-px-medium-font-size, 20px);
+    line-height: var(--body-20-px-medium-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .container-9 {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .icon-9 {
+    width: 11.3px;
+    height: 11.3px;
+  }
+   .icon-outlineshopping-cart {
+    background: #AD343E;
+    display: flex;
+    padding: 1.9px;
+    width: 15.1px;
+    height: 15.1px;
+    box-sizing: border-box;
+  }
+   .icon-2 {
+    border-radius: 65px;
+    background: #AD343E;
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    padding: 7px 7.9px 7.9px 7px;
+    width: 30px;
+    height: 30px;
+    box-sizing: border-box;
+  }
+   .online-services-available {
+    margin: 2px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-medium-font-weight, 500);
+    font-size: var(--body-20-px-medium-font-size, 20px);
+    line-height: var(--body-20-px-medium-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .container-10 {
+    margin-right: 16px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .features {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .text-11 {
+    margin: 249px 0 129px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+   .content {
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 120px 0 120px 152px;
+    width: 1600px;
+    box-sizing: border-box;
+  }
+   .what-our-customers-say {
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .title-1 {
+    margin-bottom: 64px;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .the-best-restaurant {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .last-night-we-dined-at-place-and-were-simply-blown-away-from-the-moment-we-stepped-in-we-were-enveloped-in-an-inviting-atmosphere-and-greeted-with-warm-smiles {
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-regular-font-weight, 400);
+    font-size: var(--body-18-px-regular-font-size, 18px);
+    line-height: var(--body-18-px-regular-line-height, 1.556);
+    color: var(--neutral-061, #414536);
+  }
+   .text-5 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .line-310 {
+    opacity: 0.7;
+    background: #DBDFD0;
+    margin-bottom: 31px;
+    width: 346px;
+    height: 1px;
+  }
+   .ellipse-19 {
+    border-radius: 35px;
+    /* background: url('../assets/images/ellipse_19.png') 50% / cover no-repeat; */
+    background: url('images/ellipse_19.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 70px;
+    height: 70px;
+  }
+   .sophire-robson {
+    margin-bottom: 3px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .los-angeles-ca {
+    margin-right: 4.9px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-6 {
+    margin: 9.5px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+   .user {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+    
+    
+  }
+   .container-5 {
+    border-radius: 12px;
+    /* background: #F9F9F7; */
+    position: relative;
+    /* position:relative; */
+    display: flex;
+    flex-direction: row;
+    padding: 45px 35px 35px 35px;
+    box-sizing: border-box;
+  
+    /* I added */
+    width: 403px;
+    height:170px;
+  }
+  
+  /* I make */
+  
+   .container-55 {
+    border-radius: 12px;
+    /* background: #F9F9F7; */
+    position: relative;
+    /* position:relative; */
+    display: flex;
+    flex-direction: row;
+    padding: 45px 35px 35px 35px;
+    box-sizing: border-box;
+  
+    /* I added */
+    width: 403px;
+    height:170px;
+  }
+  
+  
+   .simply-delicious {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .place-exceeded-my-expectations-on-all-fronts-the-ambiance-was-cozy-and-relaxed-making-it-aperfect-venue-for-our-anniversary-dinner-each-dish-was-prepared-and-beautifully-presented {
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-regular-font-weight, 400);
+    font-size: var(--body-18-px-regular-font-size, 18px);
+    line-height: var(--body-18-px-regular-line-height, 1.556);
+    color: var(--neutral-061, #414536);
+  }
+   .text-7 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .line-3101 {
+    opacity: 0.7;
+    background: #DBDFD0;
+    margin-bottom: 31px;
+    width: 346px;
+    height: 1px;
+  }
+   .image {
+    border-radius: 35px;
+    /* background: url('../assets/images/image_1.png') 50% / cover no-repeat; */
+    background: url('images/image_1.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 70px;
+    height: 70px;
+  }
+   .matt-cannon {
+    margin: 0 0.8px 3px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .san-diego-ca {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-8 {
+    margin: 9.5px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+   .user-1 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-6 {
+    border-radius: 12px;
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 45px 35px 35px 35px;
+    box-sizing: border-box;
+  }
+   .one-of-akind-restaurant {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .the-culinary-experience-at-place-is-first-to-none-the-atmosphere-is-vibrant-the-food-nothing-short-of-extraordinary-the-food-was-the-highlight-of-our-evening-highly-recommended {
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-regular-font-weight, 400);
+    font-size: var(--body-18-px-regular-font-size, 18px);
+    line-height: var(--body-18-px-regular-line-height, 1.556);
+    color: var(--neutral-061, #414536);
+  }
+   .text-9 {
+    margin: 0 5.9px 32px 0;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .line-3102 {
+    opacity: 0.7;
+    background: #DBDFD0;
+    margin-bottom: 31px;
+    width: 346px;
+    height: 1px;
+  }
+   .image-1 {
+    border-radius: 35px;
+    /* background: url('../assets/images/image.png') 50% / cover no-repeat; */
+    background: url('images/image.png') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 70px;
+    height: 70px;
+  }
+   .andy-smith {
+    margin-bottom: 3px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .san-francisco-ca {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text-10 {
+    margin: 9.5px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+   .user-2 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-7 {
+    border-radius: 12px;
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 45px 35px 35px 35px;
+    box-sizing: border-box;
+  }
+   .card {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: fit-content;
+    box-sizing: border-box;
+  
+      /* I added */
+    
+    width: 1296 px;
+    height: 408px;
+  }
+   .testimonial {
+    background: #FFFFFF;
+    /* background: #AD343E; */
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 98px 152px 135px 152px;
+    /* width: fit-content; */
+    box-sizing: border-box;
+
+    width: 1600px;
+
+  }
+   .our-blog-articles {
+    margin: 1.5px 30.5px 1.5px 0;
+    display: inline-block;
+    width: 1074.5px;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .get-started-now {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-013, #FFFFFF);
+  }
+   .button {
+    border-radius: 118px;
+    background: #AD343E;
+    display: flex;
+    padding: 20px 0.8px 20px 0;
+    width: 191px;
+    box-sizing: border-box;
+  }
+   .title {
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1296px;
+    box-sizing: border-box;
+  }
+   .pexels-andra-9185811 {
+    border-radius: 12px 12px 0 0;
+    /* background: url('../assets/images/pexels_andra_9185811.jpeg') 50% / cover no-repeat; */
+    background: url('images/pexels_andra_9185811.jpeg') 50% / cover no-repeat;
+    /* left: 0px;
+    top: 0 px; */
+    /* bottom: -30px; 
+    height : 100%; */
+  
+   
+    width: 636px;
+    height: 456px;
+  }
+   .mask-group-4 {
+  
+    border-radius: 12px 12px 0 0;
+    /* position: absolute; */
+    margin-bottom: 45px;
+  /* I added */
+    /* background: #000000;
+    top: 0 px;
+    left: 0px; */
+  
+    width: fit-content;
+    height: 456px;
+  }
+   .january-32023 {
+    margin-bottom: 15px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-05, #737865);
+  }
+   .the-secret-tips-tricks-to-prepare-aperfect-burger-pizza-for-our-customers {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-medium-font-weight, 500);
+    font-size: var(--body-20-px-medium-font-size, 20px);
+    line-height: var(--body-20-px-medium-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .lorem-ipsum-dolor-sit-amet-consectetur-of-aadipiscing-elitilmim-semper-adipiscing-massa-gravida-nisi-cras-enim-quis-nibholm-varius-amet-gravida-ut-facilisis-neque-egestas {
+    margin-right: 14.8px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .text {
+    margin: 0 46.5px 0 35px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 53px;
+    box-sizing: border-box;
+  
+    /* flex-direction: row; */
+    /* background: #AD343E; */
+  }
+   .pexels-suzy-hazelwood-29661961 {
+    border-radius: 12px 12px 0 0;
+    /* background: url('../assets/images/pexels_suzy_hazelwood_296619611.jpeg') 50% / cover no-repeat; */
+    background: url('images/pexels_suzy_hazelwood_296619611.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 306px;
+    height: 200px;
+  }
+   .mask-group-5 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 200px;
+  }
+   .january-320231 {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-14-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-14-px-medium-font-weight, 500);
+    font-size: var(--body-14-px-medium-font-size, 14px);
+    line-height: var(--body-14-px-medium-line-height, 1.429);
+    color: var(--neutral-05, #737865);
+  }
+   .how-to-prepare-the-perfect-french-fries-in-an-air-fryer {
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-medium-font-weight, 500);
+    font-size: var(--body-20-px-medium-font-size, 20px);
+    line-height: var(--body-20-px-medium-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .text-1 {
+    margin: 0 25px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-1 {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 14px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .pexels-sebastian-coman-photography-37910881 {
+    border-radius: 12px 12px 0 0;
+    /* background: url('../assets/images/pexels_sebastian_coman_photography_37910881.jpeg') 50% / cover no-repeat; */
+    background: url('images/pexels_sebastian_coman_photography_37910881.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    width: 306px;
+    height: 200px;
+  }
+   .mask-group-7 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 200px;
+  }
+   .january-320233 {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-14-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-14-px-medium-font-weight, 500);
+    font-size: var(--body-14-px-medium-font-size, 14px);
+    line-height: var(--body-14-px-medium-line-height, 1.429);
+    color: var(--neutral-05, #737865);
+  }
+   .delicious-cheesecake-recipes-you-can-prepare {
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-medium-font-weight, 500);
+    font-size: var(--body-20-px-medium-font-size, 20px);
+    line-height: var(--body-20-px-medium-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .text-3 {
+    margin: 0 25px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-3 {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 40px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+   .pexels-leonardo-luz-139989741 {
+    border-radius: 12px 12px 0 0;
+    /* background: url('../assets/images/pexels_leonardo_luz_1399897411.jpeg') 50% / cover no-repeat; */
+    background: url('images/pexels_leonardo_luz_1399897411.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    top: 0px;
+    width: 306px;
+    height: 200px;
+  }
+   .mask-group-6 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 200px;
+  }
+   .january-320232 {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-14-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-14-px-medium-font-weight, 500);
+    font-size: var(--body-14-px-medium-font-size, 14px);
+    line-height: var(--body-14-px-medium-line-height, 1.429);
+    color: var(--neutral-05, #737865);
+  }
+   .how-to-prepare-delicious-chicken-tenders {
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-medium-font-weight, 500);
+    font-size: var(--body-20-px-medium-font-size, 20px);
+    line-height: var(--body-20-px-medium-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .text-2 {
+    margin: 0 25px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-2 {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 40px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .pexels-katerina-holmes-59082261 {
+    border-radius: 12px 12px 0 0;
+    /* background: url('../assets/images/pexels_katerina_holmes_590822611.jpeg') 50% / cover no-repeat; */
+    background: url('images/pexels_katerina_holmes_590822611.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: -25px;
+    /* right: 0px; */
+    /* bottom: -30px; */
+    /* height: 100%; */
+  
+    width: 306px;
+    height: 200px;
+  }
+   .mask-group-8 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 200px;
+  }
+   .january-320234 {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-14-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-14-px-medium-font-weight, 500);
+    font-size: var(--body-14-px-medium-font-size, 14px);
+    line-height: var(--body-14-px-medium-line-height, 1.429);
+    color: var(--neutral-05, #737865);
+  }
+   .great-pizza-restaurants-you-should-visit-this-city {
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-medium-font-weight, 500);
+    font-size: var(--body-20-px-medium-font-size, 20px);
+    line-height: var(--body-20-px-medium-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .text-4 {
+    margin: 0 25px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-4 {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    /* padding-bottom: 40px; */
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+   .cards {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    /* width: fit-content; */
+    box-sizing: border-box;
+  /* I added */
+    width:1296 px;
+    height: 723 px;
+  }
+   .blog {
+    background: #F9F9F7;
+  
+    /* background:blue; */
+  
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding: 120px 152px 137px 152px; */
+    padding: 80px 152px 137px 152px;
+    /* width: fit-content; */
+    box-sizing: border-box;
+  
+    /* I added */
+    /* width: 1296 px; */
+    height: 860 px;
+    width: 1600px ;
+  }
+   .japanese-food {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 56px;
+    height: 55px;
+  }
+   .cuisine {
+    overflow-wrap: break-word;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 32.7px;
+    letter-spacing: -0.4px;
+    line-height: 0.898;
+    color: #FFFFFF;
+  }
+   .original-logo {
+    position: relative;
+    display: flex;
+    box-sizing: border-box;
+  }
+   .logo {
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    /* align-self: flex-start; */
+    padding: 12px 0 14px 0;
+    /* width: fit-content; */
+    box-sizing: border-box; 
+  
+    /* I added this */
+    justify-content:center;
+    width: 278.3px;
+    
+  }
+   .in-the-new-era-of-technology-we-look-ain-the-future-with-certainty-and-pride-to-for-our-company-and {
+    margin-bottom: 30px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-04, #ADB29E);
+    text-align: start;
+  }
+   .vector-11 {
+    width: 14px;
+    height: 11.3px;
+  }
+   .logo-twitter-2 {
+    display: flex;
+    width: 14px;
+    height: 11.3px;
+    box-sizing: border-box;
+  }
+   .container-20 {
+    border-radius: 17.5px;
+    background: #AD343E;
+    position: relative;
+    display: flex;
+    padding: 12.4px 9.8px 11.3px 11.3px;
+    width: 35px;
+    height: 35px;
+    box-sizing: border-box;
+  }
+   .vector-12 {
+    width: 7.9px;
+    height: 15.2px;
+  }
+   .logo-fb-simple-2 {
+    display: flex;
+    width: 7.9px;
+    height: 15.2px;
+    box-sizing: border-box;
+  }
+   .container-21 {
+    border-radius: 17.5px;
+    background: #AD343E;
+    position: relative;
+    display: flex;
+    padding: 10.2px 13.5px 9.6px 13.5px;
+    width: 35px;
+    height: 35px;
+    box-sizing: border-box;
+  }
+   .group-2 {
+    width: 16.9px;
+    height: 16.9px;
+  }
+   .logo-instagram-1 {
+    display: flex;
+    width: 16.9px;
+    height: 16.9px;
+    box-sizing: border-box;
+  }
+   .container-22 {
+    border-radius: 17.5px;
+    background: #AD343E;
+    position: relative;
+    display: flex;
+    padding: 9px;
+    width: 35px;
+    height: 35px;
+    box-sizing: border-box;
+  }
+   .vector-16 {
+    width: 16.2px;
+    height: 15.8px;
+  }
+   .logo-github-1 {
+    display: flex;
+    width: 16.2px;
+    height: 15.8px;
+    box-sizing: border-box;
+  }
+   .container-23 {
+    border-radius: 17.5px;
+    background: #AD343E;
+    position: relative;
+    display: flex;
+    padding: 9px 8.6px 10.2px 10.2px;
+    width: 35px;
+    height: 35px;
+    box-sizing: border-box;
+  }
+   .social {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    column-gap: 12px;
+    width: 176px;
+    box-sizing: border-box;
+  }
+   .col-1 {
+    margin: 0 144.7px 197px 0;
+    /* margin: 0 50px; */
+    display: flex;
+    flex-direction: column;
+    
+
+
+    /* justify-content: start;
+    align-items: start; */
+
+
+    box-sizing: border-box;
+  }
+   .pages {
+    margin: 0 14.3px 40px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-01, #FFFFFF);
+  }
+   .home {
+    margin: 0 16.6px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .about-1 {
+    margin: 0 14.7px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .menu-1 {
+    margin: 0 19.4px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .pricing {
+    margin: 0 10.2px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .blog-1 {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .contact {
+    margin-bottom: 20px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .delivery {
+    margin-right: 0.9px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .list {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .col-21 {
+    margin-right: 120.7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  /* I added */
+    width:61 px;
+    /* width: 40px; */
+  }
+   .utility-pages {
+    margin-bottom: 40px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-01, #FFFFFF);
+  }
+   .start-here {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .styleguide {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .password-protected {
+    margin-bottom: 20px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .not-found {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .licenses {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .changelog {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .view-more {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-03, #DBDFD0);
+  }
+   .list-1 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .col-31 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  
+    /* I added */
+    /* background: #AD343E; */
+    width:150px ;
+  
+    
+  }
+   .col-2 {
+    margin: 0 136px 67px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    /* added */
+    width: 330px;
+  }
+   .follow-us-on-instagram {
+    margin-bottom: 40px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-01, #FFFFFF);
+  }
+   .pexels-steve-37898851 {
+    border-radius: 12px;
+    /* background: url('{{ asset("assets/images/pexels_steve_37898851.jpeg") }}') 50% / cover no-repeat; */
+    /* background: url('../assets/images/pexels_steve_37898851.jpeg') 50% / cover no-repeat; */
+    background: url('images/pexels_steve_37898851.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    /* left: -17px; */
+    /* bottom: -6px; */
+    /* width: 222px;
+    height: 176px; */
+  /* I added */
+    top: 0px;
+    left: 0px;
+    width: 194px;
+    height: 170px;
+  }
+   .mask-group {
+    border-radius: 12px;
+    /* position: relative; */
+    /* margin-right: 14.8px; */
+    width: 194px;
+    box-sizing: border-box;
+  /* I added */
+    /* background: blue; */
+    
+    
+  }
+   .eiliv-aceron-d-5-pb-kqj-0-lu-8-unsplash-1 {
+    border-radius: 12px;
+    /* background: url('../assets/images/eiliv_aceron_d_5_pb_kqj_0_lu_8_unsplash_1.jpeg') 50% / cover no-repeat; */
+    background: url('images/eiliv_aceron_d_5_pb_kqj_0_lu_8_unsplash_1.jpeg') 50% / cover no-repeat;
+    width: 194px;
+    height: 170px;
+  }
+   .mask-group-1 {
+    border-radius: 12px;
+    display: flex;
+    width: 194px;
+    height: 170px;
+    box-sizing: border-box;
+  
+  
+  /* I added */
+    /* background: blue; */
+    /* padding-top: 0; */
+    margin-top:-45px;
+    margin-left: 175px;
+  }
+   .container-5 {
+    /* margin: 0 0.2px 15px 0; */
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* width: 402.8px; */
+    /* box-sizing: border-box; */
+  
+    /* I added this */
+    border-radius: 12px;
+    /* background: #F9F9F7; */
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 45px 35px 35px 35px;
+    box-sizing: border-box;
+  }
+   .pexels-ella-olsson-16407721 {
+    border-radius: 12px;
+    /* background: url('../assets/images/pexels_ella_olsson_16407721.jpeg') 50% / cover no-repeat; */
+    background: url('images/pexels_ella_olsson_16407721.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    /* left: -50px;
+    bottom: 0px; */
+    height: 170px;
+    /* I added */
+    width: 194px;
+    bottom: -35px;
+    left: -35px;
+  }
+   .mask-group-2 {
+    border-radius: 12px;
+    position: relative;
+    margin-right: 15px;
+    width: 194px;
+    box-sizing: border-box;
+  
+    /* I added */
+    
+  }
+   .pexels-ash-3764641 {
+    border-radius: 12px;
+    /* background: url('../assets/images/pexels_ash_3764641.jpeg') 50% / cover no-repeat; */
+    background: url('images/pexels_ash_3764641.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    /* right: -27px;
+    bottom: -23px; */
+    /* width: 236px;
+    height: 208px; */
+  /* I add */
+    width:194px;
+    height: 170px;
+    bottom: -35px;
+  }
+   .mask-group-3 {
+    border-radius: 12px;
+    position: relative;
+    width: 194px;
+    box-sizing: border-box;
+  }
+  /*  .container {
+    display: flex;
+    flex-direction: row;
+    
+    box-sizing: border-box;
+    background: #AD343E;
+  /* I added */
+    /* width: 636px;
+    
+    justify-content: center;
+    align-items: center;  */
+  /* } */ 
+   .img {
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    width: 403px;
+    box-sizing: border-box;
+  /* I added */
+    justify-content: space-between;
+    /* align-items:flex-start; */
+    height: 355px;
+    /* background: #2C2F24; */
+  }
+   .col-3 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    /* I added */
+    /* background: #AD343E; */
+    width:403px;
+    height: 419px;
+  
+  }
+   .homepage .top {
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    /* width: fit-content; */
+    width: 90%;
+    box-sizing: border-box;
+    /* justify-content: start; */
+  
+    
+  }
+   .line-311 {
+    background: #414536;
+    margin-bottom: 29px;
+    width: 1296px;
+    height: 1px;
+  }
+   .copyright-2023-hashtag-developer-all-rights-reserved {
+    margin-left: 3.8px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-04, #ADB29E);
+  }
+   .bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1296px;
+    box-sizing: border-box;
+  }
+    .footer {
+    background: #474747;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 120px 152px 85px 152px;
+    /* padding: 120px 30px 85px 152px; */
+    /* width: fit-content; */
+    width: 100%;
+    box-sizing: border-box;
+  }
+   .homepage{
+    background: #FFFFFF content-box, linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(#000000, #000000) border-box;
+    border: 1px solid transparent;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 1600px; */
+    /* width: 100%; */
+    box-sizing: border-box;
+    width: 1600px;
+    
+  }
+  /* /////////////////////for about section */
+
+   .content-001 {
+    margin: 50px 152px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+
+    height: 616px;
+  }
+
+   .img-001 {
+    position: relative;
+    margin-right: 90px;
+    display: flex;
+    padding-top: 295px;
+    width: 649px;
+    box-sizing: border-box;
+/* i added */
+    height: 616px;
+  }
+
+   .image-002 {
+    border-radius: 12px;
+    background: var(--blue-100, #DBEAFE);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 599px;
+    height: 566px;
+
+
+  }
+
+   .image-00111 {
+    background: url('images/image_1111.png') 50% / cover no-repeat;
+    position: absolute;
+    /* top: -340px; */
+    /* right: -147px; */
+    /* width: 758px;
+    height: 1137px; */
+
+    width: 599px;
+    height: 566px;
+    border-radius: 12px;
+  }
+
+   .card-001 {
+    border-radius: 12px;
+    background: #474747;
+    position: relative;
+    left: 230px;
+
+    display: flex;
+    padding: 50px 50px;
+    width: 411px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+
+   .text-0013 {
+    background: #474747;
+    display: flex;
+    flex-direction: column;
+    padding-right: 7.7px;
+    box-sizing: border-box;
+  }
+
+   .come-and-visit-us00 {
+    margin-bottom: 45px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: var(--neutral-01, #FFFFFF);
+  }
+
+   .text-0014 {
+    margin: 131.5px 0;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    box-sizing: border-box;
+
+    width: 557px;
+    height: 353px;
+  }
+
+   .we-provide-healthy-food-for-your-family00 {
+    margin: 0 42.7px 23px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .our-story-began-with-avision-to-create-aunique-dining-experience-that-merges-fine-dining-exceptional-service-and-avibrant-ambiance-rooted-in-citys-rich-culinary-culture-we-aim-to-honor-our-local-roots-while-infusing-aglobal-palate {
+    margin-bottom: 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-medium-font-weight, 500);
+    font-size: var(--body-18-px-medium-font-size, 18px);
+    line-height: var(--body-18-px-medium-line-height, 1.556);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .at-place-we-believe-that-dining-is-not-just-about-food-but-also-about-the-overall-experience-our-staff-renowned-for-their-warmth-and-dedication-strives-to-make-every-visit-an-unforgettable-event-1 {
+    margin-right: 10.6px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+
+   .info00 {
+    margin-left: 3px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+
+   .call00 {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+
+   .icon-001 {
+    width: 18px;
+    height: 18px;
+  }
+
+   .container-0014 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-02, #F9F9F7);
+  }
+
+   .icon-002 {
+    width: 18px;
+    height: 14px;
+  }
+   .icon-3 {
+    width: 16px;
+    height: 19.3px;
+  }
+
+   .content00 {
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 95px;
+    width: 1600px;
+    box-sizing: border-box;
+  }
+
+   .container-004 {
+    margin-bottom: 80px;
+    display: flex;
+    width: 1600px;
+    box-sizing: border-box;
+  }
+   .img00 {
+    background: linear-gradient(rgba(44, 47, 36, 0.84), rgba(44, 47, 36, 0.84)), url('../assets/images/bg.png');
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 214px 0;
+    width: 1600px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+
+   .play {
+    border-radius: 53px;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 34px;
+    display: flex;
+    padding: 41.7px 0 40.2px 6.8px;
+    width: 106px;
+    height: 106px;
+    box-sizing: border-box;
+  }
+
+   .vector {
+    border-radius: 2px;
+    width: 19.3px;
+    height: 24.1px;
+  }
+
+   .title-002 {
+    display: flex;
+    box-sizing: border-box;
+  }
+
+   .feel-the-authentic-original-taste-from-us {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-01, #FFFFFF);
+  }
+
+   .container-005 {
+    display: flex;
+    padding-right: 0.4px;
+    width: 1600px;
+    box-sizing: border-box;
+  }
+
+   .features00 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    justify-content: left;
+    /* width: 1259.6px; */
+    height: fit-content;
+    box-sizing: border-box;
+    width: 1272px;
+    /* height: 90px; */
+    margin-left: 150px;
+  }
+
+  
+   .container-0011 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+
+   .restaurant-menu-1 {
+    margin: 2px 27.4px 44px 0;
+    display: flex;
+    width: 38px;
+    height: 44px;
+    box-sizing: border-box;
+  }
+
+   .group00 {
+    width: 38px;
+    height: 44px;
+  }
+   .text-0010 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+
+   .multi-cuisine {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-life00 {
+    margin-left: 0.6px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+
+  }
+
+   .container-0012 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+
+   .icon00 {
+    margin: 4px 27.8px 46px 0;
+    display: flex;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+
+   .group-001 {
+    width: 40px;
+    height: 40px;
+  }
+
+   .text-0011 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+
+   .easy-to-order {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-life-1 {
+    margin-left: 0.2px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .container-0013 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+   .timer-1 {
+    margin: 2px 29.6px 44px 0;
+    display: flex;
+    width: 36px;
+    height: 44px;
+    box-sizing: border-box;
+  }
+
+   .group-002 {
+    width: 36px;
+    height: 44px;
+  }
+   .text-0012 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+   .fast-delivery {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-life-2 {
+    margin-left: 0.4px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+
+   .content-2 {
+    background: #F9F9F7;
+    /* background:#AD343E; */
+    /* position: relative; */
+    display: flex;
+    flex-direction: row;
+    padding: 120px 152px;
+    /* width: fit-content; */
+    width: 1600px;
+    height: 920px;
+    box-sizing: border-box;
+  }
+
+   .text-006 {
+    margin: 138px 131px 17px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+
+   .title-001 {
+    position: relative;
+    margin-top: -150px;
+    align-self: flex-start;
+    padding-bottom: 80px;
+    /* width: fit-content; */
+    box-sizing: border-box;
+
+    /* background: #ADB29E; */
+    width: 556px;
+  }
+   .alittle-information-for-our-valuable-guest {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+/* I added */
+    width: 556px;
+    height: 121px;
+
+    /* background: #FFFFFF; */
+  }
+   .at-place-we-believe-that-dining-is-not-just-about-food-but-also-about-the-overall-experience-our-staff-renowned-for-their-warmth-and-dedication-strives-to-make-every-visit-an-unforgettable-event00 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+
+    /* i added */
+
+    width: 556px;
+    height: 72px;
+    /* background: #2C2F24; */
+  }
+
+   .facts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 610px;
+    box-sizing: border-box;
+
+    margin-top: 50px;
+  }
+
+   .container-0003 {
+    border-radius: 8px;
+    border: 1px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 293px;
+  }
+
+   .container-003 {
+    display: flex;
+    flex-direction: row;
+    width: 610px;
+    box-sizing: border-box;
+  }
+
+   .container-0003 {
+    border-radius: 8px;
+    border: 1px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 30px 0 40px 1px;
+    width: 293px;
+    box-sizing: border-box;
+  }
+   .container-0004 {
+    margin-bottom: 80px;
+    display: flex;
+    width: 1600px;
+    box-sizing: border-box;
+  }
+
+   .locations {
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-medium-font-weight, 500);
+    font-size: var(--body-18-px-medium-font-size, 18px);
+    line-height: var(--body-18-px-medium-line-height, 1.556);
+    color: var(--neutral-061, #414536);
+  }
+
+   .container-0005 {
+    border-radius: 8px;
+    border: 1px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 30px 0 40px 1px;
+    width: 293px;
+    box-sizing: border-box;
+  }
+
+   .text-007 {
+    background: var(--neutral-01, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0.1px;
+    box-sizing: border-box;
+  }
+   .container-006 {
+    display: flex;
+    flex-direction: row;
+    width: 403px;
+    box-sizing: border-box;
+  }
+
+   .founded {
+    margin: 0 13.6px;
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-medium-font-weight, 500);
+    font-size: var(--body-18-px-medium-font-size, 18px);
+    line-height: var(--body-18-px-medium-line-height, 1.556);
+    color: var(--neutral-061, #414536);
+  }
+
+   .container-001 {
+    display: flex;
+    flex-direction: row;
+    width: 610px;
+    box-sizing: border-box;
+  }
+
+   .container-007 {
+    border-radius: 8px;
+    border: 1px solid #DBDFD0;
+    background: #FFFFFF;
+    /* background: #AD343E; */
+    position: relative;
+    margin-right: 24px;
+    /* I add */
+    margin-bottom: 24px;
+    display: flex;
+    padding: 30px 0 40px 1px;
+    width: 293px;
+    box-sizing: border-box;
+  }
+
+   .text-008 {
+    background: var(--neutral-01, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0.4px;
+    box-sizing: border-box;
+
+   /* background: #AD343E; */
+   margin-left: 60px;
+  }
+
+   .container-008 {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .staff-members {
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-medium-font-weight, 500);
+    font-size: var(--body-18-px-medium-font-size, 18px);
+    line-height: var(--body-18-px-medium-line-height, 1.556);
+    color: var(--neutral-061, #414536);
+  }
+
+   .container-009 {
+    border-radius: 8px;
+    border: 1px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 30px 0 40px 0;
+    width: 293px;
+    box-sizing: border-box;
+  }
+
+   .text-009 {
+    background: var(--neutral-01, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0.8px;
+    box-sizing: border-box;
+  }
+
+  .about .container-0010 {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .satisfied-customers {
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-medium-font-weight, 500);
+    font-size: var(--body-18-px-medium-font-size, 18px);
+    line-height: var(--body-18-px-medium-line-height, 1.556);
+    color: var(--neutral-061, #414536);
+  }
+
+   .mask-group00 {
+    border-radius: 12px;
+    /* background: url('images/pexels_cottonbro_studio_42531301.jpeg') 50% / cover no-repeat; */
+    position: relative;
+    /* margin-top: 120px; */
+    width: 550px;
+    /* height: fit-content; */
+    height: 680px;
+    box-sizing: border-box;
+  }
+
+   .pexels-cottonbro-studio-42521391 {
+    border-radius: 12px;
+    background: url('images/pexels_cottonbro_studio_42521391.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    /* right: -20px; */
+    left: 10px;
+    top: -30px;
+    /* bottom: -204px; */
+    width: 550px;
+    height: 680px;
+  }
+
+  /* for menu.blade.php */
+
+   .content-m {
+    margin: 0 152px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1296px;
+    box-sizing: border-box;
+  }
+
+   .title-1m {
+    margin-bottom: 88px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 780px; */
+    width: 557px;
+    box-sizing: border-box;
+  }
+   .title-2m {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .our-menu {
+    margin: 0 40.4px 20px 40.4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-1-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-1-font-weight, 400);
+    font-size: var(--headline-h-1-font-size, 100px);
+    line-height: var(--headline-h-1-line-height, 0.96);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .we-consider-all-the-drivers-of-change-gives-you-the-components-you-need-to-change-to-create-atruly-happens {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-regular-font-weight, 400);
+    font-size: var(--body-18-px-regular-font-size, 18px);
+    line-height: var(--body-18-px-regular-line-height, 1.556);
+    color: var(--neutral-06, #495460);
+  }
+
+   .button-m {
+    display: flex;
+    flex-direction: row;
+    column-gap: 15px;
+    width: 780px;
+    box-sizing: border-box;
+  }
+
+   .button-base-m {
+    border-radius: 50px;
+    background: #AD343E;
+    display: flex;
+    padding: 12px 50px;
+    /* padding-left: 100px; */
+    width: 120px;
+    box-sizing: border-box;
+
+    height: 48px;
+  }
+
+   .button-3m {
+    /* overflow-wrap: break-word; */
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-01, #FFFFFF);
+  }
+   .button-base-1m {
+    border-radius: 50px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    display: flex;
+    padding: 11px 40px;
+    width: 150px;
+    box-sizing: border-box;
+  }
+   .button-4m {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .button-base-2m {
+    border-radius: 50px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    display: flex;
+    padding: 11px 29px;
+    width: 150px;
+    box-sizing: border-box;
+  }
+
+   .button-5m {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .button-base-3m {
+    border-radius: 50px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    display: flex;
+    padding: 11px 50px;
+    width: 150px;
+    box-sizing: border-box;
+  }
+   .button-6m {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .button-base-4m {
+    border-radius: 50px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    display: flex;
+    padding: 11px 40px;
+    width: 150px;
+    box-sizing: border-box;
+  }
+   .button-7m {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .cards-m {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content:space-evenly; */
+    /* width: 80px; */
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    /* border-color: #AD343E; */
+    /* box-shadow: 10px 10px ; */
+    height: 428px;
+    width: 306px;
+    /* padding:30px */
+
+
+    /* margin: 20px; */
+  }
+
+   .cards-mm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content:space-evenly; */
+    /* width: 80px; */
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    /* border-color: #AD343E; */
+    /* box-shadow: 10px 10px ; */
+    height: 200px;
+    width: 306px;
+    /* padding:30px */
+
+
+    /* margin: 20px; */
+  }
+   .newcards {
+    /* display: flex; */
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* column-gap: 24px; */
+    /* flex-direction: row; */
+    /* align-items: center; */
+    /* justify-content: space-around; */
+    gap: 24px;
+    width: 1296px;
+    box-sizing: border-box;
+    margin-bottom: 24px;
+    /* flex-wrap: wrap; */
+  }
+
+   .container-2m {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 1296px;
+    box-sizing: border-box;
+  }
+  /*  .container-2 {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 32.7px 0.8px 32.7px 0;
+    width: 220.9px;
+    height: 90px;
+    box-sizing: border-box;
+  } */
+   .container-12m {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .mask-group-m {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+   .pexels-daniela-constantini-55916641 {
+    border-radius: 12px 12px 0 0;
+    /* background: url('images/pexels_daniela_constantini_55916641.jpeg') 50% / cover no-repeat; */
+    position: absolute;
+    /* top: -209px;
+    right: -154px; */
+    width: 306px;
+    height: 230px;
+  }
+   .text-m {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-around;
+    width: fit-content;
+    box-sizing: border-box;
+    text-align: center;
+
+    /* padding-bottom: 50px; */
+  }
+   .container-13m {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .fried-eggs {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .made-with-eggs-lettuce-salt-oil-and-other-ingredients {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .container-14m {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .mask-group-1m {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+   .pexels-maksim-goncharenok-47737691 {
+    border-radius: 12px 12px 0 0;
+    background: url('images/pexels_maksim_goncharenok_47737691.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    /* right: -144px;
+    bottom: -60px; */
+    width: 306px;
+    height: 230px;
+  }
+   .text-1m {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-15m {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .hawaiian-pizza {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .made-with-eggs-lettuce-salt-oil-and-other-ingredients-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .container-16m {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .mask-group-2m {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+   .pexels-nadin-sh-129564241 {
+    border-radius: 12px 12px 0 0;
+    background: url('images/pexels_nadin_sh_129564241.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: -75px;
+    height: 100%;
+  }
+   .text-2m {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-17m {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .martinez-cocktail {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .made-with-eggs-lettuce-salt-oil-and-other-ingredients-2 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+  .container-18m {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .mask-group-3m {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+   .pexels-ruslan-khmelevsky-78451211 {
+    border-radius: 12px 12px 0 0;
+    background: url('images/pexels_ruslan_khmelevsky_78451211.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    /* left: -42px;
+    bottom: 0px; */
+    width: 306px;
+    height: 230px;
+  }
+   .text-3m {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-19m {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .butterscotch-cake {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .made-with-eggs-lettuce-salt-oil-and-other-ingredients-3 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+
+
+  /*  .container-4m {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 1296px;
+    box-sizing: border-box;
+  }
+   .container-4m {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 828px;
+    box-sizing: border-box;
+  } */
+
+   .container-20m {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+
+   .mask-group-4m {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+   .pexels-bam-awey-53359181 {
+    border-radius: 12px 12px 0 0;
+    background: url('images/pexels_bam_awey_53359181.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    /* top: -122px;
+    right: -2px; */
+    width: 306px;
+    height: 230px;
+  }
+   .text-4m {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-21m {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .mint-lemonade {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .made-with-eggs-lettuce-salt-oil-and-other-ingredients-4 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .container-22m {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .mask-group-5m {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+   .pexels-roman-odintsov-50612541 {
+    border-radius: 12px 12px 0 0;
+    background: url('images/pexels_roman_odintsov_50612541.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    /* left: -56px;
+    top: -61px; */
+    width: 306px;
+    height: 230px;
+  }
+   .text-5m {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-23m {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .chocolate-icecream {
+    margin: 0 18.1px 15px 18.1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .made-with-eggs-lettuce-salt-oil-and-other-ingredients-5 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+
+   .container-24m {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .mask-group-6m {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+   .pexels-pixabay-3271581 {
+    border-radius: 12px 12px 0 0;
+    background: url('images/pexels_pixabay_3271581.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    /* left: -73px;
+    top: -102px; */
+    width: 306px;
+    height: 230px;
+  }
+   .text-6m {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-25m {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .cheese-burger {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .made-with-eggs-lettuce-salt-oil-and-other-ingredients-6 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .container-26m {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .mask-group-7m {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+   .pexels-nicola-barts-79373861 {
+    border-radius: 12px 12px 0 0;
+    background: url('images/pexels_nicola_barts_79373861.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    /* left: -24px;
+    top: -54px; */
+    width: 306px;
+    height: 230px;
+  }
+   .text-7m {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .container-27m {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+   .classic-waffles {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .made-with-eggs-lettuce-salt-oil-and-other-ingredients-7 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .brand {
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 120px 152px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .title-m {
+    margin: 68.5px 123.4px 68.5px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+
+    width: 346px;
+  }
+   .you-can-order-through-apps {
+    margin-bottom: 19px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-2-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-2-font-weight, 500);
+    font-size: var(--headline-h-2-font-size, 55px);
+    line-height: var(--headline-h-2-line-height, 1.1);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-enim-bibendum-sed-et-aliquet-aliquet-risus-tempor-semper {
+    margin-right: 16.2px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+   .logo-m {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 828px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+   .container-m {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+
+  /*  .container-m {
+    margin: 0 58.6px 40px 58.6px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 710.7px;
+    box-sizing: border-box;
+  } */
+
+   .container-1m {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 32.7px 30px;
+    width: 220.9px;
+    box-sizing: border-box;
+  }
+  /*  .container-1m {
+    display: flex;
+    flex-direction: row;
+    width: 403px;
+    box-sizing: border-box;
+  } */
+   .vector-1 {
+    margin: 0 8.6px 0px 0;
+    width: 71.7px;
+    height: 24.5px;
+  }
+   .vector-m {
+    width: 71.7px;
+    height: 24.5px;
+  }
+   .container-2mm {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 32.7px 35px ;
+    width: 220.9px;
+    height: 90px;
+    box-sizing: border-box;
+  }
+   .vector-2 {
+    width: 117.1px;
+    height: 24.5px;
+  }
+   .container-3m {
+    margin: 0 0.2px 15px 0;
+    display: flex;
+    flex-direction: row;
+    width: 402.8px;
+    box-sizing: border-box;
+  }
+   .vector-3 {
+    width: 151.8px;
+    height: 24.5px;
+  }
+   .container-4mm {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 828px;
+    box-sizing: border-box;
+  }
+   .container-5m {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 33px 32.5px;
+    width: 260px;
+    height: 90px;
+    box-sizing: border-box;
+  }
+   .vector-4 {
+    width: 190.8px;
+    height: 24.5px;
+  }
+   .container-6m {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 30px 30px;
+    width: 260px;
+    height: 90px;
+    box-sizing: border-box;
+  }
+   .group-m {
+    width: 165.9px;
+    height: 30px;
+  }
+   .container-7m {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 23px 30px;
+    width: 260px;
+    height: 90px;
+    box-sizing: border-box;
+  }
+   .vector-9 {
+    width: 166.4px;
+    height: 44.6px;
+  }
+   .container-8m {
+    margin: 0 45px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 738px;
+    box-sizing: border-box;
+  }
+   .container-9m {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 30px 29.9px;
+    width: 230px;
+    box-sizing: border-box;
+  }
+   .logo-1m {
+    margin-right: 8.5px;
+    width: 27px;
+    height: 30.1px;
+  }
+   .vector-10 {
+    margin: 5.4px 0 4px 0;
+    width: 114.9px;
+    height: 20.7px;
+  }
+   .container-10m {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 33px 35px;
+    width: 230px;
+    height: 90px;
+    box-sizing: border-box;
+  }
+   .group-39980 {
+    width: 137.3px;
+    height: 24.3px;
+  }
+   .container-11m {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 30px 35px;
+    width: 230px;
+    box-sizing: border-box;
+  }
+   .vector-14 {
+    margin-right: 9.5px;
+    width: 37.7px;
+    height: 30.5px;
+  }
+   .vector-13 {
+    margin: 5.2px 9.5px 5px 0;
+    width: 49.9px;
+    height: 20.4px;
+  }
+   .food {
+    margin: 5.2px 0 5.6px 0;
+    width: 50.8px;
+    height: 19.8px;
+  }
+/* book page */
+   .title-b {
+    margin-bottom: 72px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 576px;
+    box-sizing: border-box;
+  }
+
+   .book-atable {
+    margin-bottom: 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-1-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-1-font-weight, 400);
+    font-size: var(--headline-h-1-font-size, 100px);
+    line-height: var(--headline-h-1-line-height, 0.96);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .we-consider-all-the-drivers-of-change-gives-you-the-components-you-need-to-change-to-create-atruly-happens-b {
+    margin: 0 20.9px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-regular-font-weight, 400);
+    font-size: var(--body-18-px-regular-font-size, 18px);
+    line-height: var(--body-18-px-regular-line-height, 1.556);
+    color: var(--neutral-06, #495460);
+  }
+   .form {
+    /* position: relative; */
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 43px 38px 49px 50px;
+    width: fit-content;
+    box-sizing: border-box;
+
+
+    margin-bottom: 50px;
+
+    /* height: 504px; */
+  }
+   .bg-1 {
+    mix-blend-mode: hard-light;
+    box-shadow: var(--token-2, 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08));
+    border-radius: 16px;
+    border: 1px solid var(--neutral-01, #FFFFFF);
+    background: var(--neutral-01, #FFFFFF);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+
+   .row {
+    position: relative;
+    margin-bottom: 24px;
+    /* width: fit-content; */
+    box-sizing: border-box;
+
+    /* background: #AD343E; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 717px;
+    
+  }
+  /*  .container-b {
+    display: flex;
+    flex-direction: row;
+    width: 403px;
+    box-sizing: border-box;
+  } */
+   .container-b {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+
+   .title-1b {
+    margin-bottom: 8px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  
+   .date {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .button-base-b {
+    border-radius: 72px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    background: var(--neutral-01, #FFFFFF);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 17px 25px 17px 23.1px;
+    width: 350px;
+    box-sizing: border-box;
+
+    height: 60;
+  }
+   .container-1b {
+    margin-right: 12px;
+    width: 275.9px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+  /*  .container-1b {
+    display: flex;
+    padding: 0 155.5px 0 151.5px;
+    width: 1600px;
+    box-sizing: border-box;
+  } */
+
+   .icon-outlinecalendar {
+    margin: 6px 0;
+    display: flex;
+    width: 12px;
+    height: 12px;
+    box-sizing: border-box;
+  }
+   .icon-b {
+    width: 12px;
+    height: 12px;
+  }
+   .container-2b {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  /*  .container-2b {
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 586px;
+    width: 1600px;
+    height: fit-content;
+    box-sizing: border-box;
+  } */
+   .title-2b {
+    margin-bottom: 8px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+   .time {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+
+   .button-base-1b {
+    border-radius: 72px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    background: var(--neutral-01, #FFFFFF);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 17px 26.3px 17px 23.2px;
+    width: 350px;
+    box-sizing: border-box;
+  }
+   .pm {
+    margin-right: 12px;
+    width: 277.1px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .icon-outlinecheveron-down {
+    margin: 10px 0 9.3px 0;
+    display: flex;
+    width: 9.3px;
+    height: 4.7px;
+    box-sizing: border-box;
+  }
+   .icon-1b {
+    width: 9.3px;
+    height: 4.7px;
+  }
+   .row-1b {
+    position: relative;
+    margin-bottom: 24px;
+    width: fit-content;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: row;
+  }
+   .container-3b {
+    margin: 0 0.2px 15px 0;
+    display: flex;
+    flex-direction: row;
+    width: 402.8px;
+    box-sizing: border-box;
+  }
+  /*  .container-3b {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  } */
+   .title-3b {
+    margin-bottom: 8px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+   .name {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .button-base-2b {
+    border-radius: 72px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    background: var(--neutral-01, #FFFFFF);
+    padding: 17px 23.1px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .enter-your-name {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-05, #737865);
+  }
+   .container-4b {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+   .title-4b {
+    margin-bottom: 8px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+   .phone {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .button-base-3b {
+    border-radius: 72px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    background: var(--neutral-01, #FFFFFF);
+    padding: 17px 22.8px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .xxxx-xxx-xxxx {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-05, #737865);
+  }
+   .row-2b {
+    position: relative;
+    margin: 0 7px 24px 0;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .title-5b {
+    margin-bottom: 8px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+   .total-person {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .button-base-4b {
+    border-radius: 72px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    background: var(--neutral-01, #FFFFFF);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 17px 26.3px 17px 23.1px;
+    width: 717px;
+    box-sizing: border-box;
+  }
+   .person {
+    margin-right: 12px;
+    width: 644.2px;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+   .icon-outlinecheveron-down-1 {
+    margin: 10px 0 9.3px 0;
+    display: flex;
+    width: 9.3px;
+    height: 4.7px;
+    box-sizing: border-box;
+  }
+   .icon-2b {
+    width: 9.3px;
+    height: 4.7px;
+  }
+   .button-b {
+    border-radius: 118px;
+    background: #AD343E;
+    position: relative;
+    margin-right: 7px;
+    display: flex;
+    padding: 20px 0.8px 20px 0;
+    width: 717px;
+    box-sizing: border-box;
+  }
+
+   .get-started-now-b {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-013, #FFFFFF);
+
+    padding-left: 300px;
+  }
+
+   .row-bb {
+    position: relative;
+    margin-bottom: 24px;
+    /* width: fit-content; */
+    box-sizing: border-box;
+
+    /* background: #AD343E; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 717px;
+    
+  }
+
+   .map {
+    background: #FFFFFF;
+    /* position: absolute; */
+    position: relative;
+    /* left: 0px; */
+    top: 800px;
+    /* right: 0px; */
+    height: 767px;
+    width: 1600px;
+  }
+   .image-112 {
+    background: url('images/image_112.png') 50% / cover no-repeat;
+    position: absolute;
+    top: -800px;
+    /* right: -197px; */
+    /* bottom: -278px; */
+
+    bottom: 0px;
+
+    width: 1600px;
+    height: 767px;
+  }
+   .first-b{
+    width: 1600px;
+    height: fit-content;
+
+  }
+   .second-b{
+
+    position: relative;
+    width: 1600px;
+    /* height: 1278px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
+
+  /* auth file */
+
+   .container-auth{
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 53px;
+    box-sizing: border-box;
+    height: 300px;
+    width: 800px;
+    margin-bottom: 100px;
+  }
+
+   .form-auth{
+
+    width: 800px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+   .ref{
+    text-decoration: none;
+    color: #182226;
+
+}
+ .ref-2{
+  text-decoration: none;
+  color: #F9F9F7;
+
+}
+
+ .myimages{
+
+  width: 306px;
+  height: 230px;
+
+
+  border-radius: 12px;
+
+
+}
+
+
+
+ tr1{
+  
+  width: 150px;
+  height: 80px;
+  text-align: center;
+}
+
+ td{
+  width: 150px;
+  height: 50px;
+  text-align: center;
+}

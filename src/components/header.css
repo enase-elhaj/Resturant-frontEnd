@@ -1,0 +1,157 @@
+ .header {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1600px;
+    box-sizing: border-box;
+  }
+  .top-bar {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background: #474747;
+    margin-bottom: 29px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 154.3px 8.8px 152.3px;
+    width: 1600px;
+    box-sizing: border-box;
+  }
+  .info-1 {
+    margin: 2px 0 1.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 341.5px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+
+  .call-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .icon-outlinephone-1 {
+    margin: 5.3px 10.3px 5.3px 0;
+    display: flex;
+    width: 13.5px;
+    height: 13.5px;
+    box-sizing: border-box;
+  }
+  .icon-13 {
+    width: 13.5px;
+    height: 13.5px;
+  }
+  .container-28 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-02, #F9F9F7);
+  }
+  .mail-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .icon-outlinemail-1 {
+    margin: 6.8px 10.3px 6.8px 0;
+    display: flex;
+    width: 13.5px;
+    height: 10.5px;
+    box-sizing: border-box;
+  }
+  .icon-14 {
+    width: 13.5px;
+    height: 10.5px;
+  }
+  .yummybistrobliss {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-02, #F9F9F7);
+  }
+  .social-1 {
+    display: flex;
+    flex-direction: row;
+    width: 120.7px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-24 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 9.6px 7.6px 8.8px 8.8px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+  .logo-twitter-21 {
+    display: flex;
+    width: 10.8px;
+    height: 8.8px;
+    box-sizing: border-box;
+  }
+  .vector-20 {
+    width: 10.8px;
+    height: 8.8px;
+  }
+  .container-25 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 7.9px 10.5px 7.5px 10.5px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+  .logo-fb-simple-21 {
+    display: flex;
+    width: 6.1px;
+    height: 11.8px;
+    box-sizing: border-box;
+  }
+  .vector-21 {
+    width: 6.1px;
+    height: 11.8px;
+  }
+  .container-26 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 7px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+  .logo-instagram-11 {
+    display: flex;
+    width: 13.1px;
+    height: 13.1px;
+    box-sizing: border-box;
+  }
+  .group-3 {
+    width: 13.1px;
+    height: 13.1px;
+  }
+  .container-27 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    display: flex;
+    padding: 7px 6.7px 7.9px 7.9px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
